@@ -23,3 +23,14 @@ when I do an arcade drive, it doesn't move at all...
 But the tank drive works perfectly!
 Thanks for your help.
 And thanks for opening this README for a bit of background
+
+---
+
+Pretty good. Its a friday - I did my time and now I get to play some video games. Took a look at the project.
+Its going to be difficult to diagnose what you have going wrong as it looks like you're doing a mix of
+C++ and Code No Code. This relies on source files and using a gui that is like... not cash money. And my method of
+debugging is log statements mostly. I mean I've used a debugger I know how, but print statements are your friend.
+Anyways motor groups can be as big as you want them to be. That might help in the initial degugging phase.
+After that I would recommend adding and testing in smaller chunks. When it stops working figure out why.
+Cheers
+Travis Kohler
